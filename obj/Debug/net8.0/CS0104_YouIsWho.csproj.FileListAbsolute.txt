@@ -1,0 +1,15 @@
+C:\Users\mabrowncd\source\repos\CS0104_YouIsWho\bin\Debug\net8.0\CS0104_YouIsWho.exe
+C:\Users\mabrowncd\source\repos\CS0104_YouIsWho\bin\Debug\net8.0\CS0104_YouIsWho.deps.json
+C:\Users\mabrowncd\source\repos\CS0104_YouIsWho\bin\Debug\net8.0\CS0104_YouIsWho.runtimeconfig.json
+C:\Users\mabrowncd\source\repos\CS0104_YouIsWho\bin\Debug\net8.0\CS0104_YouIsWho.dll
+C:\Users\mabrowncd\source\repos\CS0104_YouIsWho\bin\Debug\net8.0\CS0104_YouIsWho.pdb
+C:\Users\mabrowncd\source\repos\CS0104_YouIsWho\obj\Debug\net8.0\CS0104_YouIsWho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabrowncd\source\repos\CS0104_YouIsWho\obj\Debug\net8.0\CS0104_YouIsWho.AssemblyInfoInputs.cache
+C:\Users\mabrowncd\source\repos\CS0104_YouIsWho\obj\Debug\net8.0\CS0104_YouIsWho.AssemblyInfo.cs
+C:\Users\mabrowncd\source\repos\CS0104_YouIsWho\obj\Debug\net8.0\CS0104_YouIsWho.csproj.CoreCompileInputs.cache
+C:\Users\mabrowncd\source\repos\CS0104_YouIsWho\obj\Debug\net8.0\CS0104_YouIsWho.sourcelink.json
+C:\Users\mabrowncd\source\repos\CS0104_YouIsWho\obj\Debug\net8.0\CS0104_YouIsWho.dll
+C:\Users\mabrowncd\source\repos\CS0104_YouIsWho\obj\Debug\net8.0\refint\CS0104_YouIsWho.dll
+C:\Users\mabrowncd\source\repos\CS0104_YouIsWho\obj\Debug\net8.0\CS0104_YouIsWho.pdb
+C:\Users\mabrowncd\source\repos\CS0104_YouIsWho\obj\Debug\net8.0\CS0104_YouIsWho.genruntimeconfig.cache
+C:\Users\mabrowncd\source\repos\CS0104_YouIsWho\obj\Debug\net8.0\ref\CS0104_YouIsWho.dll
