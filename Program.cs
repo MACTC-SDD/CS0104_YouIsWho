@@ -21,8 +21,8 @@
             Console.WriteLine("\n\n");
 
             Console.WriteLine("----- Can Tame Animal -----");
-            Console.WriteLine(CanTameAnimal(true, 10, 5, false)); // True
-            Console.WriteLine(CanTameAnimal(false, 10, 5, false)); // False
+            Console.WriteLine(CanTameAnimal(true, 5, 10, false)); // True
+            Console.WriteLine(CanTameAnimal(false, 5, 10, false)); // False
             Console.WriteLine(CanTameAnimal(true, 10, 5, true)); // False
             Console.WriteLine("\n\n");
 
